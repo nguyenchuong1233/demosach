@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|d:\\do_an\\baitaplon\\content\\libs\\commonjs\\logincommon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\content\\libs\\commonjs\\logincommon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|D:\\Do_An\\mood\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|D:\\Do_An\\commomsentmail\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|solutionrelative:commomsentmail\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|D:\\Do_An\\baitaplon\\views\\cart\\odercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\DongTrieuBookStoreOnline.csproj|solutionrelative:baitaplon\\views\\cart\\odercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginCommon.js",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Content\\libs\\commonjs\\loginCommon.js",
+              "RelativeDocumentMoniker": "BaiTapLon\\Content\\libs\\commonjs\\loginCommon.js",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Content\\libs\\commonjs\\loginCommon.js",
+              "RelativeToolTip": "BaiTapLon\\Content\\libs\\commonjs\\loginCommon.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T06:42:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BaiTapLon\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADEBAAAAAAAAAAAowDoBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:49:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:47:24.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:46:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:04:21.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:04:14.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTapLon\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwCoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:46:21.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\ApplicationInsights.config",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\ApplicationInsights.config",
+              "RelativeToolTip": "BaiTapLon\\ApplicationInsights.config",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T04:45:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomesController.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:45:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Do_An\\Mood\\App.config",
+              "RelativeDocumentMoniker": "Mood\\App.config",
+              "ToolTip": "D:\\Do_An\\Mood\\App.config",
+              "RelativeToolTip": "Mood\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T04:36:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Startup.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeToolTip": "BaiTapLon\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:36:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T08:13:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T08:13:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:12:56.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Views\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Web.config",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Views\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T08:12:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "D:\\Do_An\\CommomSentMail\\MailHelper.cs",
+              "RelativeDocumentMoniker": "CommomSentMail\\MailHelper.cs",
+              "ToolTip": "D:\\Do_An\\CommomSentMail\\MailHelper.cs",
+              "RelativeToolTip": "CommomSentMail\\MailHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:10:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "oderComplete.cshtml",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:25:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Web.config",
+              "ToolTip": "D:\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-02T16:27:00.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
